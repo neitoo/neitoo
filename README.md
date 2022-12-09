@@ -7,10 +7,10 @@
 #### <p align="center"><a href="https://t.me/neitoo">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</p></p>
 
 ##### <p align="center">Things I use:</p>
-<tr>
-  <td></td>
-  <td></td>
-</tr>
+| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |
+<img alt="me working" width="320" src="https://raw.githubusercontent.com/neitoo/neitoo/main/content/work-work.webp" style="max-width: 100%;">
+
+
 
 - 👋 Hi, I’m @neitoo
 - 👀 I’m interested in programming
