@@ -1,4 +1,4 @@
-![Image alt](https://github.com/neitoo/neitoo/raw/main/content/background.jpg)
+![Image alt](https://github.com/neitoo/neitoo/raw/main/content/backgroundpage.jpg)
 ## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=500&width=248&lines=Glad+to+see+you+here!)](https://git.io/typing-svg)</p>
 ## <p align="center">👋I'm <a href="https://neitoo.github.io/ntprtfl/" target="_blank">Nikita</a>, currently a student programmer</p>
 ### <p align="center">👀About me</p>
