@@ -18,6 +18,8 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neitoo&show_icons=true&theme=radical)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae6be4424d6b2509974e3e?variant=dark)](https://roadmap.sh)
   
 </div>
 
