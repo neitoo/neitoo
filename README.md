@@ -1,6 +1,6 @@
 ![Image alt](https://github.com/neitoo/neitoo/raw/main/content/backgroundpage.jpg)
 ## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=500&width=248&lines=Glad+to+see+you+here!)](https://git.io/typing-svg)</p>
-## <p align="center">👋I'm <a href="https://neitoo.github.io/ntprtfl/" target="_blank">Nikita</a>, currently a student programmer</p>
+## <p align="center">👋I'm <a href="https://vk.com/neitoo" target="_blank">Nikita</a>, currently a student programmer</p>
 ### <p align="center">👀About me</p>
 #### <p align="center">I like to work in new directions,<br>but mostly I'm pumped in mobile and web development</p>
 ### <p align="center">📫Contact me</p>
