@@ -4,7 +4,7 @@
 ### <p align="center">👀About me</p>
 #### <p align="center">I like to work in new directions,<br>but mostly I'm pumped in mobile and web development</p>
 ### <p align="center">📫Contact me</p>
-#### <p align="center"><a href="https://t.me/neitoo">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</p></p>
+#### <p align="center"><a href="https://t.me/neitoo">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a></p>
 
 ##### <p align="center">Things I use:</p>
 
