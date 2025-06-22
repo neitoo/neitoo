@@ -29,5 +29,5 @@
 [![](https://img.shields.io/badge/Telegram-27a7e7)](https://t.me/neitoo)
 [![](https://img.shields.io/badge/VK-0077ff)](https://vk.com/neitoo)
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neitoo&show_icons=true&theme=shadow_red)
+<a href="https://github.com/neitoo"><img src="https://github-readme-stats.vercel.app/api?username=neitoo&show_icons=true&theme=shadow_red" alt="neitoo github stats"></a>
 
