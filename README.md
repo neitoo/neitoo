@@ -1,4 +1,4 @@
-<h2>Пишу фронтенд. По ситуации занимаюсь и дизайном, и бэкендом — если того требует проект.</h2>
+<h2>Пишу фронтенд. По ситуации занимаюсь и дизайном.</h2>
 
 <div align="left">
 <img src="https://github.com/neitoo/neitoo/blob/main/content/boo.png" width="25%" align="right" />
